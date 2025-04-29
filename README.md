@@ -1,4 +1,4 @@
-# Laravel Multi-MySQL Database Connection Example
+# Laravel Multi-MySQL Database Connection
 
 This Laravel project demonstrates how to configure and use **multiple MySQL database connections** to interact with different databases simultaneously. It includes migrations, models, and controller logic for each database.
 
